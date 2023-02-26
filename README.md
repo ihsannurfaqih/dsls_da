@@ -17,3 +17,5 @@ All the metrics selected including traffic condition, total jam recorded, level 
 ## Document Report
 
 [PowerBI Dashboard](report/Dashboard%20Traffic%20Monitor%20Ihsan%20Nur%20Faqih.pbix)
+
+[Report Document](report/DA%20Mini%20Project%20DSLS%202023_Ihsan%20Nur%20Faqih.pptx)
