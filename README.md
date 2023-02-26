@@ -1,4 +1,4 @@
-# Data Science Learning Studio 2023 : Data Science Project
+# Data Science Learning Studio 2023 : Data Analyst Project
 
 ## Proposed Solution
 
